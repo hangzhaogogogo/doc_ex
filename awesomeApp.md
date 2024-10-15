@@ -40,6 +40,10 @@ When you’re ready to deploy to production, create a minified bundle with `npm 
 <img src='https://cdn.jsdelivr.net/gh/facebook/create-react-app@27b42ac7efa018f2541153ab30d63180f5fa39e0/screencast.svg' width='600' alt='npm start'>
 </p>
 
+### Watch a Quick Tutorial
+
+For a step-by-step walkthrough on how to use Awesome App, watch this [![Youtobe Video](https://img.youtube.com/vi/PYCxct2e0zI/0.jpg)](https://www.youtube.com/watch?v=PYCxct2e0zI)
+
 ### Installation
 
 To install Create Awesome App, follow these step:
