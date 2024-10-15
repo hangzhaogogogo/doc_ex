@@ -2,7 +2,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/allegheny-college-cmpsc-104-Fall-2024/midterm/blob/main/README.md)
 
-<img alt="Logo" align="right" src="https://raw.githubusercontent.com/hangzhaogogogo/doc_ex/main/graphics/logo.svg" width="20%" />
+<img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
 
 Create awesome apps with no build configuration.
 
@@ -208,7 +208,7 @@ Check out [Expo CLI](https://github.com/expo/expo-cli).
 
 ## Contributing
 
-We'd love to have your helping hand on `create-awesome-app`! See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on what we're looking for and how to get started.
+We'd love to have your helping hand on `create-awesome-app`! See [CONTRIBUTING.md](https://github.com/allegheny-college-cmpsc-104-Fall-2024/midterm) for more information on what we're looking for and how to get started.
 
 ## Supporting Create Awesome App
 
