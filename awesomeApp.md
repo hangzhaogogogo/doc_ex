@@ -4,6 +4,8 @@
 
 <img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
 
+![logo](https://raw.githubusercontent.com/hangzhaogogogo/doc_ex/main/graphics/logo.svg)
+
 Create awesome apps with no build configuration.
 
 - [Creating an App](#creating-an-app) – How to create a new app.
@@ -48,9 +50,9 @@ For a step-by-step walkthrough on how to use Awesome App, watch this [![Youtobe 
 
 To install Create Awesome App, follow these step:
 
-1. You need to go to Node.js and download the latest version.
-2. I used the command npm install -g create-awesome-app in terminals.
-3. Verified the installation by running create-awesome-app --version.
+1. You need to go to `Node.js` and download the latest version.
+2. I used the command `npm install -g create-awesome-app` in terminals.
+3. Verified the installation by running `create-awesome-app --version`.
 
 ### Get Started Immediately
 
