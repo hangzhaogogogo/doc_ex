@@ -4,7 +4,8 @@
 
 <img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
 
-![logo](https://raw.githubusercontent.com/hangzhaogogogo/doc_ex/main/graphics/logo.svg)
+![logo](https://raw.githubusercontent.com/allegheny-college-cmpsc-104-Fall-2024/midterm/main/graphics/PRs-welcome-green.svg)
+
 
 Create awesome apps with no build configuration.
 
